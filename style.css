@@ -1,0 +1,23 @@
+body{ 
+    color: chocolate;
+    background-color: burlywood;
+    font-family: sans-serif;
+}
+
+h1 { 
+    color: darkgoldenrod;
+    text-decoration: underline;
+}
+
+h2 {
+    color: darkgreen;
+}
+#html-anatomy-heading{
+    color: red;
+}
+h3 {
+   #introduction-ps {
+  font-style: italic; 
+   } color: black;
+}
+
